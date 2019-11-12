@@ -1,0 +1,3 @@
+Membuat CRUD makin design UI saja belum ada fungsi CRUD
+Tampilan pada fungsi Lihat Data masih error
+Rapikan design
