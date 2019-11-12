@@ -3,3 +3,6 @@ Tampilan pada fungsi Lihat Data masih error
 Rapikan design UI aplikasi
 Ganti warna header dan ukuran font
 Tambah fitur menampilkan tanggal dan waktu
+Ganti font header
+Ganti warna background navigasi menjadi putih
+Ganti warna bg body menjadi abu-abu
