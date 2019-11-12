@@ -2,3 +2,4 @@ Membuat CRUD makin design UI saja belum ada fungsi CRUD
 Tampilan pada fungsi Lihat Data masih error
 Rapikan design UI aplikasi
 Ganti warna header dan ukuran font
+Tambah fitur menampilkan tanggal dan waktu
