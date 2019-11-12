@@ -5,3 +5,4 @@ Ganti warna header dan ukuran font
 Tambah fitur menampilkan tanggal dan waktu
 Tambah footer
 Tambah icon di navigasi sesuai dengan menu yang ada
+Ganti warna background navigasi menjadi putih
