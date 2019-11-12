@@ -1,8 +1,8 @@
 React JS
 React Life Cycle
 Redux
-SCSS
 Material Design
 Git & GitHub
 Bikin CRUD
 Standar Rule DCA
+CSS
